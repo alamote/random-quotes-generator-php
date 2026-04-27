@@ -14,5 +14,7 @@
             "RandomQuotes\\": "src/"
         }
     },
-    "require": {}
+    "require": {
+      "ext-json": "*"
+    }
 }
